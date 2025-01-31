@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "mawiegand-github-io"
+version = "0.1.0"
+description = ""
+authors = ["Marcel Wiegand <marcel@bluepanel.org>"]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
