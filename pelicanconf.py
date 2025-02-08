@@ -24,10 +24,11 @@ LINKS = (
 )
 
 # Social widget
-SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
-)
+SOCIAL = {
+    'github': 'https://github.com/mawiegand',
+    'linkedin': 'https://www.linkedin.com/in/marcel-wiegand',
+}
+
 
 DEFAULT_PAGINATION = 10
 
